@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-//does this show up on GitHub
+import React from 'react';
 
 const App: React.FC = () => {
   return (
